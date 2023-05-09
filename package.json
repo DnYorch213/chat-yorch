@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
+  "type": "module", 
   "homepage": "https://dnyorch213.github.io/chat-yorch-213/",
   
   "scripts": {
