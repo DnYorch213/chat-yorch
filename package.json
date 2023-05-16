@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module", 
-  "homepage": "https://dnyorch213.github.io/chat-yorch-213/",
+  "type": "module",
   
   "scripts": {
     "dev": "nodemon server/index.js",
     "build": "npm --prefix client install && npm run --prefix client build",
-    "start": "node server/index.js",
-    "deploy": "gh-pages -d build"
+    "start": "node server/index.js"   
     
   },
   "keywords": [],
